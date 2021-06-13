@@ -1,0 +1,7 @@
+c:\users\preetam kumar\documents\visual studio 2015\Projects\BlackPearlCodility\BlackPearlCodility\bin\Debug\BlackPearlCodility.dll
+c:\users\preetam kumar\documents\visual studio 2015\Projects\BlackPearlCodility\BlackPearlCodility\bin\Debug\BlackPearlCodility.pdb
+c:\users\preetam kumar\documents\visual studio 2015\Projects\BlackPearlCodility\BlackPearlCodility\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\preetam kumar\documents\visual studio 2015\Projects\BlackPearlCodility\BlackPearlCodility\bin\Debug\WebDriver.dll
+c:\users\preetam kumar\documents\visual studio 2015\Projects\BlackPearlCodility\BlackPearlCodility\bin\Debug\WebDriver.xml
+c:\users\preetam kumar\documents\visual studio 2015\Projects\BlackPearlCodility\BlackPearlCodility\obj\Debug\BlackPearlCodility.dll
+c:\users\preetam kumar\documents\visual studio 2015\Projects\BlackPearlCodility\BlackPearlCodility\obj\Debug\BlackPearlCodility.pdb
